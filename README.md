@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ângela;I'm+32+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ângela;I'm+32+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 
 <h3 align="center">Data analyst and Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
