@@ -5,7 +5,7 @@
 <h3 align="center">Data analyst and Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
 
-- :rocket: I’m currently learning **JavaScript, Html, CSS, Java e C#**
+- :rocket: I’m currently learning **JavaScript, Html, CSS, Java and C#**
 
 - 📫 How to reach me **nglfrocha@gmail.com**
 
